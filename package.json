@@ -15,7 +15,8 @@
         "debug": "node debug app.js"
     },
     "main": "app.js",
-    "repository": "",
+    "repository": "primo",
     "author": "",
-    "license": ""
+    "license": "",
+    "subdomain": "primox"
 }
