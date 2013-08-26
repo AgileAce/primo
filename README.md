@@ -1,4 +1,2 @@
-primo
-=====
-
-OpenSource project reporting and dashboard application
+# primo
+### a Sails application
