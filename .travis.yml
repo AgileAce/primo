@@ -1,0 +1,5 @@
+deploy:
+  provider: nodejitsu
+  user: "agileace"
+  api_key: "yRsV7RjUssbw94BBJ5Vq"
+
