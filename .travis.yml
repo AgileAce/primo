@@ -2,9 +2,3 @@ deploy:
   provider: nodejitsu
   user: "agileace"
   api_key: "a12c1931-57df-448b-bca7-5400d636cd77"
-notifications:
-  webhooks: 
-    urls:
-      - http://webhooks.nodejitsu.com/1/deploy
-    on_success: always
-    on_failure: always
