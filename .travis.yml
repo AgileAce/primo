@@ -1,8 +1,5 @@
-language: node_js
-node_js:
-  - "0.10"
 deploy:
   provider: nodejitsu
   user: "agileace"
-  api_key: "yRsV7RjUssbw94BBJ5Vq"
+  api_key: "a12c1931-57df-448b-bca7-5400d636cd77"
 
