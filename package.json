@@ -2,7 +2,7 @@
     "name": "primo",
     "private": true,
     "version": "0.0.2-10",
-    "description": "Project reporting app",
+    "description": "Cool project reporting app",
     "dependencies": {
         "sails": "0.9.3",
         "grunt": "0.4.1",
