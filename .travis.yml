@@ -4,5 +4,5 @@ node_js:
 deploy:
   provider: nodejitsu
   user: "agileace"
-  api_key: "a12c1931-57df-448b-bca7-5400d636cd77"
+  api_key: "yRsV7RjUssbw94BBJ5Vq"
 
